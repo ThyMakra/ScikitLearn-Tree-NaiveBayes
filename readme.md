@@ -3,7 +3,7 @@ This repository was made for an assignment regarding Decision Tree and Naive Bay
 
 ### Decision Tree
 Here are the instruction to run the Decision Tree program : 
-1. Make sure that you have sklearn version >=0.21 installed from `plot_tree` to work.
+1. Make sure that you have sklearn version >=0.21 installed for `plot_tree` to work.
     ```python
     import sklearn
     print(sklearn.__version__)
